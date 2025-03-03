@@ -1,0 +1,7 @@
+req-
+pandas
+numpy
+streamlit
+hugging face
+
+dataset link-https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
